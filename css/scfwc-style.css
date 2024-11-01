@@ -1,0 +1,23 @@
+#shipping-countdown,
+#shipping-countdown > div,
+#shipping-countdown div > span {
+  display: inline-block;
+}
+
+#shipping-countdown {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+#shipping-countdown p.title {
+  margin-bottom: 0;
+}
+
+#shipping-countdown div > span {
+  padding: 0 10px;
+}
+
+#shipping-countdown .smalltext {
+  padding-top: 5px;
+  font-size: 0.8rem;
+}
